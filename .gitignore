@@ -42,3 +42,7 @@ Thumbs.db
 .idea/
 *.swp
 *.swo
+
+# --- MODELS ---
+models/*
+!models/.gitkeep
