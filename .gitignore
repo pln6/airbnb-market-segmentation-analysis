@@ -3,6 +3,8 @@ data/raw/*
 data/processed/*
 !data/raw/.gitkeep
 !data/processed/.gitkeep
+data/sentiment_chunks/*
+!data/sentiment_chunks/.gitkeep
 
 # --- PYTHON ---
 __pycache__/
