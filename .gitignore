@@ -5,6 +5,8 @@ data/processed/*
 !data/processed/.gitkeep
 data/sentiment_chunks/*
 !data/sentiment_chunks/.gitkeep
+data/embedding_chunks/*
+!data/embedding_chunks/.gitkeep
 
 # --- PYTHON ---
 __pycache__/
