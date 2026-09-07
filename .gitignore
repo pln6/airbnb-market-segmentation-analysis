@@ -7,6 +7,8 @@ data/sentiment_chunks/*
 !data/sentiment_chunks/.gitkeep
 data/embedding_chunks/*
 !data/embedding_chunks/.gitkeep
+data/grid_checkpoints/*
+!data/grid_checkpoints/.gitkeep
 
 # --- PYTHON ---
 __pycache__/
